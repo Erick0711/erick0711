@@ -2,7 +2,9 @@
 
 <img align='right' src="[]()" width="230">
 
-<p><em>System engineering at <a href="https://cumbre.edu.bo/" target="_blank">University Private Cumbre</a><p></p><p></p>
+<p><em>System engineering at <a href="https://cumbre.edu.bo/" target="_blank">University Private Cumbre</a>
+  <p></p>
+  <p></p>
   <img src="https://ml6vnoiiarqy.i.optimole.com/XkMHlS0-eFEUQvMn/w:auto/h:auto/q:90/https://cumbre.edu.bo/wp-content/uploads/2020/09/logo-color.png" width="50">
   </br>Developer Jr. at <a href="http://www.biopetrol.com.bo/">BioPetrol</a> 
   <p></p>
@@ -10,8 +12,7 @@
   <img src="http://www.biopetrol.com.bo/img/logo.png" width="100"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: erickarteaga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]((https://www.linkedin.com/in/maicolerickarteaga/))
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
