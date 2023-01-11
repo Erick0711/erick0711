@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474r1iy5uebnyj4o0ov6mhzzl7irlnvt2j387luqmw&rid=giphy.gif)" width="50"> A little more about me...  
+### <img src="[[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474r1iy5uebnyj4o0ov6mhzzl7irlnvt2j387luqmw&rid=giphy.gif)](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474r1iy5uebnyj4o0ov6mhzzl7irlnvt2j387luqmw&rid=giphy.gif)" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
