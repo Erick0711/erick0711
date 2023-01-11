@@ -2,7 +2,7 @@
 
 <img align='right' src="[]()" width="230">
 
-<p><em>System engineering at <a target="_blank" href="https://cumbre.edu.bo/">University Private Cumbre</a><img src="https://ml6vnoiiarqy.i.optimole.com/XkMHlS0-eFEUQvMn/w:auto/h:auto/q:90/https://cumbre.edu.bo/wp-content/uploads/2020/09/logo-color.png" width="30">
+<p><em>System engineering at <a href="https://cumbre.edu.bo/" target="_blank">University Private Cumbre</a> <img src="https://ml6vnoiiarqy.i.optimole.com/XkMHlS0-eFEUQvMn/w:auto/h:auto/q:90/https://cumbre.edu.bo/wp-content/uploads/2020/09/logo-color.png" width="30">
   </br>Developer Jr. at <a href="[https://www.thoughtworks.com](http://www.biopetrol.com.bo/)">BioPetrol</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
