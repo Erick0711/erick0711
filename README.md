@@ -1,7 +1,8 @@
 <h2> Hi, I'm Erick! <img src="" width="50"></h2>
+
 <img align='right' src="[]()" width="230">
-<p><em><a href="http://www.unb.br">Software Enginner at</a></em></p>
-<p><em>Software Enginner at <a href="http://www.unb.br](https://cumbre.edu.bo/)">University Private Cumbre</a><img src="" width="30">
+
+<p><em>Software Enginner at <a href="https://cumbre.edu.bo/">University Private Cumbre</a><img src="" width="30">
   </br>Developer Jr. at <a href="[https://www.thoughtworks.com](http://www.biopetrol.com.bo/)">BioPetrol</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
