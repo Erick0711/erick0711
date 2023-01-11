@@ -1,6 +1,7 @@
 <h2> Hi, I'm Erick! <img src="" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474r1iy5uebnyj4o0ov6mhzzl7irlnvt2j387luqmw&rid=giphy.gif)" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="[]()" width="230">
+<p><em>Software Enginner at <a href="[http://www.unb.br](https://cumbre.edu.bo/)">University Private Cumbre</a><img src="" width="30">
+  </br>Developer Jr. at <a href="[https://www.thoughtworks.com](http://www.biopetrol.com.bo/)">BioPetrol</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
