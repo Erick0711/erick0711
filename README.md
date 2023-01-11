@@ -3,13 +3,10 @@
 <img align='right' src="[]()" width="230">
 
 <p><em>System engineering at <a href="https://cumbre.edu.bo/">University Private Cumbre</a>
-  <p></p>
-
-  <img src="https://ml6vnoiiarqy.i.optimole.com/XkMHlS0-eFEUQvMn/w:auto/h:auto/q:90/https://cumbre.edu.bo/wp-content/uploads/2020/09/logo-color.png" width="30">
+  <img src="https://ml6vnoiiarqy.i.optimole.com/XkMHlS0-eFEUQvMn/w:auto/h:auto/q:90/https://cumbre.edu.bo/wp-content/uploads/2020/09/logo-color.png" width="50">
   </br>Developer Jr. at <a href="http://www.biopetrol.com.bo/">BioPetrol</a> 
-  <p></p>
 
-  <img src="http://www.biopetrol.com.bo/img/logo.png" width="50"> 
+  <img src="http://www.biopetrol.com.bo/img/logo.png" width="100"> 
 </em></p>
 
 [![Linkedin: erickarteaga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]((https://www.linkedin.com/in/maicolerickarteaga/))
