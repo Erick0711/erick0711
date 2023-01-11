@@ -9,7 +9,7 @@
   <img src="http://www.biopetrol.com.bo/img/logo.png" width="100"> 
 </em></p>
 
-[![Linkedin: erickarteaga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]((https://www.linkedin.com/in/maicolerickarteaga/))
+[![Linkedin: erickarteaga] ((https://www.linkedin.com/in/maicolerickarteaga/))
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
