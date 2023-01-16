@@ -24,6 +24,8 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 
 ### Languages and Tools:
 <code><img height="27" src="https://www.php.net/images/logos/new-php-logo.png" alt="php"></code>
+<code><img height="27" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html"></code>
+<code><img height="27" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
