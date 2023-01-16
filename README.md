@@ -11,19 +11,15 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 
 ### Work experience:
 
-- 🛠 &nbsp; I worked as a support technician at my own university.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 🛠 &nbsp; I worked as a support technician at my own university
+- 💻 &nbsp; I am currently working in a company where I do a KPI performance measurement for human resources.
+- 👨🏻‍💻 &nbsp; I work as a freelance developer doing a project for a condominium manager for a SIAC company.
 
-### My Absolute Favorites:
+### Hobbies:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; Learning new technologies can be exhausting, even tedious, but it is satisfying..
+- 📰 &nbsp; Read books or blogs on how to improve both programming best practices and personally..
+- 🏐 &nbsp; Physical activity, there is nothing more relaxing after a hard work than keeping fit.
 
 ### Languages and Tools:
 
