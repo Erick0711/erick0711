@@ -22,13 +22,6 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 - 🏐 &nbsp; Physical activity, there is nothing more relaxing after a hard work than keeping fit.
 **Social Media:**
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
