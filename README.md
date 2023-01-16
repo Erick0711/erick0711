@@ -36,11 +36,11 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Studying frameworks
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="30" src="https://expressjs.com/images/favicon.png" alt="expressjs"></code>
 <code><img height="30" src="https://laravel.com/img/favicon/favicon-32x32.png" alt="laravel"></code>
 
 ### framework for studying
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 
 
 <div align="center">
