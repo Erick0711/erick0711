@@ -20,7 +20,6 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 - 💻 &nbsp; Learning new technologies can be exhausting, even tedious, but it is satisfying..
 - 📰 &nbsp; Read books or blogs on how to improve both programming best practices and personally..
 - 🏐 &nbsp; Physical activity, there is nothing more relaxing after a hard work than keeping fit.
-**Social Media:**
 
 ### Languages and Tools:
 <code><img height="25" src="https://www.php.net/images/logos/new-php-logo.png" alt="php"></code>
