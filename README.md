@@ -1,3 +1,3 @@
-<h1 class="align-center">Hi! I´m Maicol Erick</h1>
+<h1 class="center">Hi! I´m Maicol Erick</h1>
 
 
