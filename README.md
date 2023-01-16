@@ -136,7 +136,7 @@ I am a system engineer 🎓, I studied at the Private University Cumbre 🏛, I'
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### if we only keep what we already know, we will be prepared for a world that no longer exists. 
 
 </div>
 
